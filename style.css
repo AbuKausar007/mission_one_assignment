@@ -82,6 +82,23 @@ body{
     padding-right: 2%; 
     margin-right: 4%;
 }
+.develop_area h1{
+    font-size: 50px;
+}
+.develop{
+    color: #2f2f2f;
+}
+.limit{
+    color: #fe6f27;
+}
+.develop_area a{
+    text-decoration: none;
+    background-color: #2f2f2f;
+    padding: 10px 40px;
+    color: #fe6f27;
+    border-radius: 7px;
+    font-weight: 700;
+}
 .global_container h1{
    font-size: 50px;
    
@@ -94,6 +111,7 @@ body{
 }
 .global_heading{
     margin-bottom: 110px;
+    margin-top: 110px;
 }
 .global_heading img {
     margin-left: 15%;
