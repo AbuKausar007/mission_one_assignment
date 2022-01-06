@@ -3,6 +3,9 @@ body{
     sans-serif;
     margin: 0;
 }
+.h1_font_size{
+    font-size: 50px;
+}
 .flexiable_container{
     display: flex;
 }
@@ -17,9 +20,6 @@ body{
 }
 .first_heading{
     margin-top: 110px;
-}
-.first_heading h1{
-    font-size: 50px;
 }
 .mission {
     color: #fe6f27;
@@ -82,9 +82,6 @@ body{
     padding-right: 2%; 
     margin-right: 4%;
 }
-.develop_area h1{
-    font-size: 50px;
-}
 .develop{
     color: #2f2f2f;
 }
@@ -98,10 +95,6 @@ body{
     color: #fe6f27;
     border-radius: 7px;
     font-weight: 700;
-}
-.global_container h1{
-   font-size: 50px;
-   
 }
 .global {
     color: #fe6f27;
@@ -123,6 +116,38 @@ body{
     color: #fe6f27;
     border-radius: 7px;
     font-weight: 700;
+}
+.contact_area{
+    margin-bottom: 100px;
+}
+.contact_area img{
+    margin-top: 40px;
+}
+.contact_area a{
+    text-decoration: none;
+    background-color: #2f2f2f;
+    padding: 10px 40px;
+    color: #fe6f27;
+    border-radius: 7px;
+    font-weight: 700;
+    margin-left: 19%;
+    
+}
+.get_touch{
+    text-align: center;
+    font-size: 50px;
+}
+.touch{
+    color: #fe6f27;
+}
+.shy{
+    font-size: 40px;
+}
+.tomato_color{
+    color: #fe6f27;
+}
+.p_font{
+    font-size: 18px;
 }
 .footer_area{
     text-align: center;
