@@ -8,7 +8,7 @@ body{
 }
 .half_widht{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 7%;
     
 }
 .half_widht img{
@@ -41,4 +41,43 @@ body{
     border-radius: 7px;
     font-weight: 700;
 
+}
+.my_mission{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: #2f2f2f;
+}
+.year{
+    color: #fe6f27;
+}
+.misson_vission_goals{
+    margin-top: 60px;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+#mission_one{
+    background-color: lightcoral;
+    width: 50%;
+    border-radius: 15px;
+    padding-left: 2%; 
+    padding-right: 2%; 
+    margin-right: 4%;
+}
+#mission_two{
+    background-color: lightcyan;
+    width: 50%;
+    border-radius: 15px;
+    padding-left: 2%; 
+    padding-right: 2%; 
+    margin-right: 4%;
+}
+#mission_three{
+    background-color: lightgreen;
+    width: 50%;
+    border-radius: 15px;
+    padding-left: 2%; 
+    padding-right: 2%; 
+    margin-right: 4%;
 }
